@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import random
+
+
+    # work with this variable
+    n = int(input())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7003#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 16 May 2021 17:24:11 UTC
+record: -1
